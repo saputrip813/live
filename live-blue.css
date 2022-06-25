@@ -1,0 +1,222 @@
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #000000 !important;
+}
+
+.outerbox .number_open {
+    width: 305px;
+    border-radius: 8px;
+    font: normal 15px Arial, Arial, Helvetica, sans-serif;
+    color: blanchedalmond;
+    background-color: #004fb1;
+    background: url(../images/bg-livedraw-sgp.jpg);
+    -moz-box-shadow: 0 0 2px 2px #ff0000;
+    -webkit-box-shadow: 0 0 2px 2px#ff0000;
+    box-shadow: 0 0 2px 2px #004fb1;
+
+}
+.outerbox .number_open .title {
+    text-align: center;
+    padding: 0 0;
+    padding-top: 5px;
+    width: 300px;
+    height: 33px;
+    margin: 0 auto;
+}
+.outerbox .number_open .title h1 {
+    position: relative;
+    right: -55px;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    color: #fff;
+    text-shadow: 0px 0px 0px #000;
+    bottom: 7px;
+}
+.outerbox .number_open .title h2 {
+    position: relative;
+    right: -60px;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    color: #fff;
+    text-shadow: 0px 0px 0px #000;
+    bottom: 11px;
+}
+.outerbox .number_open .prize_numqq {
+    text-align: center;
+    width: 250px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: gorgia;
+    letter-spacing: 4px;
+    margin-top: 19px;
+    text-shadow: 2px 1px 3px #004fb1;
+}
+.outerbox .number_open .prize_numqq p {
+    text-align: center;
+    width: 250px;
+    font-size: 38px;
+    height: 1px;
+    letter-spacing: 12px;
+    margin-top: 2px;
+    text-shadow: 1px 2px 3px #fff;
+}
+.outerbox .number_open .prize_num {
+    text-align: center;
+    padding: 6px 6px;
+    width: 250px;
+    height: 24px;
+    letter-spacing: 2px;
+    margin: 2px auto;
+    text-shadow: 0px 2px 3px #000;
+}
+.outerbox .number_open .prize_num9 h1 {
+    padding: 14px 10px 1px 9px;
+    margin-left: -125px;
+    margin-bottom: 7px;
+    font-size: 18px;
+    font-family: gorgia;
+    color: #001d0a;
+    float: center;
+    text-shadow: 3px 1px 2px #004fb1;
+}
+.outerbox .number_open .prize_num9 h2 {
+    margin: 1px 4px;
+    font-size: 20px;
+    margin-left: 50px;
+    letter-spacing: 6px;
+    color: #001d0a;
+    float: left;
+    text-shadow: 0px 2px 3px #fff;
+}
+.outerbox .number_open .prize_num5 h1 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: gorgia;
+    letter-spacing: 1px;
+    margin-top: -37px;
+    margin-right: 40px;
+    float: right;
+    text-shadow: 3px 1px 2px #004fb1;
+}
+.outerbox .number_open .prize_num5 h2 {
+    margin: 1px;
+    font-size: 20px;
+    margin-right: 50px;
+    letter-spacing: 5px;
+    color: #001d0a;
+    float: right;
+    text-shadow: 0px 2px 3px #fff;
+}
+.outerbox .number_open .prize_numtop {
+    text-align: center;
+    text-shadow: 1px 3px 4px #000;
+}
+.outerbox .number_open .prize_num2 {
+    text-align: center;
+}
+.outerbox .number_open .prize_num10 {
+    text-align: center;
+    color: black;
+    font: 700 15px Helvetica;
+}
+.outerbox .number_open .prize_num2 h1 {
+    font-size: 18px;
+    color: #001d0a;
+    font-family: gorgia;
+    letter-spacing: 2px;
+    padding: 21px 2px 0 0;
+    margin: 0 2px 1px 0;
+    margin-right: 2px;
+    margin-left: 0px;
+    text-shadow: 3px 1px 2px #004fb1;
+    margin-left: 77px;
+    margin-right: 78px;
+}
+.outerbox .number_open .prize_num2 ul {
+    margin: 3px;
+    padding: 0 0 0 0;
+    width: 310px;
+}
+.outerbox .number_open .prize_num2 ul li {
+    text-align: center;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 700;
+    width: 45px;
+    color: #000;
+    padding: 4px 6px 3px 1px;
+    margin: 2px 10px 2px 2px;
+    margin-left: 2px;
+    margin-left: 2px;
+    margin-left: -2px;
+    letter-spacing: 1px;
+    float: left;
+    text-shadow: 3px 1px 3px #fff;
+}
+.outerbox .number_open .prize_num3 {
+    text-align: center;
+    padding: 8px;
+    text-shadow: 1px 3px 4px #000;
+}
+.outerbox .number_open .prize_num3 h1 {
+    font-size: 18px;
+    color: #001d0a;
+    font-family: gorgia;
+    letter-spacing: 2px;
+    padding: 45px 2px 0 0;
+    margin: 0 2px 1px 0;
+    text-shadow: 3px 1px 2px #004fb1;
+}
+.outerbox .number_open .prize_num3 ul {
+    margin: 3px;
+    padding: 0 0 0 0;
+    width: 310px;
+
+}
+.outerbox .number_open .prize_num3 ul li {
+    text-align: center;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 700;
+    width: 45px;
+    color: #000;
+    padding: 4px 6px 3px 1px;
+    margin: 2px 10px 2px 2px;
+    margin-left: 2px;
+    margin-left: 2px;
+    margin-left: -2px;
+    letter-spacing: 1px;
+    float: left;
+    text-shadow: 3px 1px 3px #fff;
+}
+.tbl-result {
+    margin-top: -5px;
+}
+.tbl-starter {
+    margin-top:0px;
+}
+.tbl-consolation {
+    margin-top:0px;
+}
+.text-blink {
+    color: #fffb00 !important;
+    animation: blink 1s linear infinite;
+    font-size: 14px;
+}
+
+/** Media Query Style **/
+@media (min-width: 993px) {
+    .tbl-result {
+        margin-top: 0px;
+    }
+    .tbl-starter {
+        margin-top:5px;
+    }
+    .tbl-consolation {
+        margin-top:2px;
+    }
+}
